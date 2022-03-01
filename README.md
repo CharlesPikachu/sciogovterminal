@@ -39,12 +39,16 @@ run "pip install git+https://github.com/CharlesPikachu/sciogovterminal.git@maste
 
 
 # Quick Start
+
 After installing sciogovterminal, you can execute the command in the terminal like:
+
 ```
 sciogovterminal -i http://www.scio.gov.cn/m/37234/Document/1720965/1720965.htm
 ```
+
 Then, you can browse [《2021年美国侵犯人权报告》](http://www.scio.gov.cn/m/37234/Document/1720965/1720965.htm) in the terminal as follows:
-![img](./docs/screenshot.jpg)
+
+![img](./docs/screenshot.gif)
 
 
 # Projects in Charles_pikachu
