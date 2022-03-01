@@ -3,7 +3,7 @@
 </div>
 <br />
 
-[![docs](https://img.shields.io/badge/docs-latest-blue)](https://sciogovterminal.readthedocs.io/)
+[![docs](https://img.shields.io/badge/docs-latest-blue)]()
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/sciogovterminal)](https://pypi.org/project/sciogovterminal/)
 [![PyPI](https://img.shields.io/pypi/v/sciogovterminal)](https://pypi.org/project/sciogovterminal)
 [![license](https://img.shields.io/github/license/CharlesPikachu/sciogovterminal.svg)](https://github.com/CharlesPikachu/sciogovterminal/blob/master/LICENSE)
