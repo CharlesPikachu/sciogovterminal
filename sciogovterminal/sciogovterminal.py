@@ -8,6 +8,7 @@ Author:
 '''
 import os
 import sys
+import click
 import pynput
 import platform
 import requests
@@ -104,7 +105,11 @@ class SciogovTerminal():
         return article_info
 
 
-'''run'''
-if __name__ == '__main__':
-    client = SciogovTerminal(url='http://www.scio.gov.cn/m/37234/Document/1720965/1720965.htm')
+'''主函数'''
+@click.command()
+@click.version_option()
+@click.option('-i', '--url', help='中华人民共和国国务院新闻办公室的网页链接, 例如: http://www.scio.gov.cn/m/37234/Document/1720965/1720965.htm')
+def main(url):
+    if url is None: return
+    client = SciogovTerminal(url=url)
     client.run()
