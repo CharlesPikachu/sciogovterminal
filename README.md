@@ -8,6 +8,7 @@
 [![PyPI](https://img.shields.io/pypi/v/sciogovterminal)](https://pypi.org/project/sciogovterminal)
 [![license](https://img.shields.io/github/license/CharlesPikachu/sciogovterminal.svg)](https://github.com/CharlesPikachu/sciogovterminal/blob/master/LICENSE)
 [![PyPI - Downloads](https://pepy.tech/badge/sciogovterminal)](https://pypi.org/project/sciogovterminal/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/sciogovterminal?style=flat-square)](https://pypi.org/project/sciogovterminal/)
 [![issue resolution](https://isitmaintained.com/badge/resolution/CharlesPikachu/sciogovterminal.svg)](https://github.com/CharlesPikachu/sciogovterminal/issues)
 [![open issues](https://isitmaintained.com/badge/open/CharlesPikachu/sciogovterminal.svg)](https://github.com/CharlesPikachu/sciogovterminal/issues)
 
@@ -62,6 +63,7 @@ Then, you can browse [《2021年美国侵犯人权报告》](http://www.scio.gov
 - [ImageCompressor](https://github.com/CharlesPikachu/imagecompressor): Image compressors written by pure python.
 - [FreeProxy](https://github.com/CharlesPikachu/freeproxy): Collecting free proxies from internet.
 - [Paperdl](https://github.com/CharlesPikachu/paperdl): Search and download paper from specific websites.
+- [Sciogovterminal](https://github.com/CharlesPikachu/sciogovterminal): Browse "The State Council Information Office of the People's Republic of China" in the terminal.
 
 
 # More
