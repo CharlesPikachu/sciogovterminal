@@ -3,7 +3,7 @@
 </div>
 <br />
 
-[![docs](https://img.shields.io/badge/docs-latest-blue)]()
+[![docs](https://img.shields.io/badge/docs-latest-blue)](https://mp.weixin.qq.com/s/aMskzjGkb0PQBHD0Z0O0_g)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/sciogovterminal)](https://pypi.org/project/sciogovterminal/)
 [![PyPI](https://img.shields.io/pypi/v/sciogovterminal)](https://pypi.org/project/sciogovterminal)
 [![license](https://img.shields.io/github/license/CharlesPikachu/sciogovterminal.svg)](https://github.com/CharlesPikachu/sciogovterminal/blob/master/LICENSE)
@@ -12,7 +12,7 @@
 [![issue resolution](https://isitmaintained.com/badge/resolution/CharlesPikachu/sciogovterminal.svg)](https://github.com/CharlesPikachu/sciogovterminal/issues)
 [![open issues](https://isitmaintained.com/badge/open/CharlesPikachu/sciogovterminal.svg)](https://github.com/CharlesPikachu/sciogovterminal/issues)
 
-Introduction: 
+Introduction: https://mp.weixin.qq.com/s/aMskzjGkb0PQBHD0Z0O0_g
 
 
 # Sciogovterminal
