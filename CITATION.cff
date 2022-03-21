@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - name: "Zhenchao Jin"
+title: "Sciogovterminal: Browse "The State Council Information Office of the People's Republic of China" in the terminal."
+date-released: 2022-02-28
+url: "https://github.com/CharlesPikachu/sciogovterminal"
+license: Apache-2.0
