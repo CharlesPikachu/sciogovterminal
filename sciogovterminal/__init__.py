@@ -5,7 +5,7 @@ __description__ = '''Sciogovterminal: Browse "The State Council Information Offi
 '''url'''
 __url__ = 'https://github.com/CharlesPikachu/sciogovterminal'
 '''version'''
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 '''author'''
 __author__ = 'Zhenchao Jin'
 '''email'''

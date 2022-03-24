@@ -103,6 +103,9 @@ class SciogovTerminal():
         }
         # 返回解析的内容
         return article_info
+    '''str'''
+    def __str__(self):
+        return 'Welcome to use SciogovTerminal!\nYou can visit https://github.com/CharlesPikachu/sciogovterminal for more details.'
 
 
 '''主函数'''
